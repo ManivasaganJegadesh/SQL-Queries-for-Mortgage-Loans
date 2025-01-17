@@ -38,9 +38,9 @@ After the data is inserted, various SQL queries can be written to explore and an
 #### Medium Queries
 - More complex queries involving grouping, aggregation functions
 
-## 15 Practice Questions
+## 14 Practice Questions
 
-### Easy Level
+### `Easy Level` (These queries involve basic SQL operations like COUNT(), GROUP BY, SUM(), ORDER BY, and filtering conditions.)
 1. Total Number of Loans in the Database
 2. Loan Count by State
 3. Total Loan Amount by Loan Status (Approved vs. Rejected)
@@ -48,7 +48,7 @@ After the data is inserted, various SQL queries can be written to explore and an
 5. Average Interest Rate by Loan Purpose
 6. Loans in the Last Year
 
-### Medium Level
+### `Medium Level` (These queries involve case expressions, aggregations, multiple conditions)
 1. Loan Approval Rate
 2. Average Interest Rate Based on Credit Score Ranges
 3. What is the approval rate of loans by state?
